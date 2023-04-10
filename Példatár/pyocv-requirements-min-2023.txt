@@ -1,0 +1,5 @@
+opencv-contrib-python==4.7.0.68
+numpy
+scipy
+matplotlib
+jupyter
